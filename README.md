@@ -45,3 +45,14 @@
 <div align="center">
   <h2>🛠️ Tech Stack & Tools</h2>
 </div>
+
+<details open>
+  <summary><b>Programming Languages</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=007396" alt="Java" />
+  </p>
+</details>
