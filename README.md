@@ -41,3 +41,7 @@
 </div>
 
 <hr />
+
+<div align="center">
+  <h2>🛠️ Tech Stack & Tools</h2>
+</div>
