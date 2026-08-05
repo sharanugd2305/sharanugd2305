@@ -46,7 +46,7 @@
 </div>
 
 <p>
-Passionate about Full-Stack Development, DevOps, and AI-driven solutions. Currently expanding my expertise in modern web technologies, cloud computing, and scalable system design while exploring best practices in CI/CD, containerization, and cloud-native development. I enjoy collaborating on innovative projects, contributing to open source, and continuously learning emerging technologies. My goal is to build secure, scalable, and impactful digital solutions that combine creativity, performance, and reliability.
+Aspiring Computer Science student passionate about building practical, scalable software. Driven by curiosity to constantly explore new tech and turn daily challenges into expertise.
 </p>
 </td>
     </tr>
