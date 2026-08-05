@@ -18,7 +18,7 @@
         
 <div align="center">
   <blockquote>
-    "Every error I face today becomes experience for tomorrow."
+    "Learning through every line of code."
   </blockquote>
 </div>
 
