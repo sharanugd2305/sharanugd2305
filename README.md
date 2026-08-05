@@ -45,6 +45,17 @@
   <h2>💫 About Me</h2>
 </div>
 
+<p>
+Passionate about Full-Stack Development, DevOps, and AI-driven solutions. Currently expanding my expertise in modern web technologies, cloud computing, and scalable system design while exploring best practices in CI/CD, containerization, and cloud-native development. I enjoy collaborating on innovative projects, contributing to open source, and continuously learning emerging technologies. My goal is to build secure, scalable, and impactful digital solutions that combine creativity, performance, and reliability.
+</p>
+</td>
+    </tr>
+  </table>
+</div>
+
+<hr />
+
+
 <div align="center">
   <h2>🛠️ Tech Stack & Tools</h2>
   <hr width="50%" />
