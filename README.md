@@ -1,4 +1,4 @@
-# <div align="center">🌠 Building things with code.</div>
+# <div align="center">🌠Where Curiosity Powers Code.</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30,26&height=200&section=header&text=SHARANU%20DODAMANI%20&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
