@@ -39,8 +39,11 @@
    <img src="https://visitor-badge.laobi.icu/badge?page_id=Sharanugd2305.Sharanugd2305&"  />
 </div>
 </div>
-
 <hr />
+
+<div align="center">
+  <h2>💫 About Me</h2>
+</div>
 
 <div align="center">
   <h2>🛠️ Tech Stack & Tools</h2>
