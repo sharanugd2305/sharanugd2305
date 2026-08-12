@@ -53,6 +53,10 @@ Aspiring Computer Science student passionate about building practical, scalable 
 <hr />
 
 
+<table>
+  <tr>
+    <td>
+
 <div align="center">
   <h2>🛠️ Tech Stack & Tools</h2>
   <hr width="50%" />
@@ -118,8 +122,10 @@ Aspiring Computer Science student passionate about building practical, scalable 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </p>
 </details>
-<hr />
 
+    </td>
+  </tr>
+</table>
 <div align="center">
  <p><i>"Still learning. Still growing. Still coding."</i></p>
 </div>
