@@ -39,7 +39,7 @@
 <hr />
 
 <div align="center">
-  <h2>💫 About Me</h2>
+  <h2>About Me</h2>
 </div>
 
 <p>
