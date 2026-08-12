@@ -52,17 +52,7 @@ Aspiring Computer Science student passionate about building practical, scalable 
 
 <hr />
 
-
-<table>
-  <tr>
-    <td>
-
 <div align="center">
-<table align="center">
-  <tr>
-    <td align="center">
-
-div align="center">
   <h2>🛠️ Tech Stack & Tools</h2>
 </div>
 
@@ -122,6 +112,67 @@ div align="center">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </p>
 </details>
+
+<details open>
+  <summary><b>CI/CD</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Containerization & Orchestration</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Cloud Platforms</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>DevSecOps</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+    <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" alt="Trivy" />
+    <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Monitoring & Observability</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  </p>
+</details>
+<details open>
+  <summary><b>Tools & Technologies</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  </p>
+</details>
+
+
+
+###
+
+<hr />
 <div align="center">
  <p><i>"Still learning. Still growing. Still coding."</i></p>
 </div>
