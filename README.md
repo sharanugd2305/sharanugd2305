@@ -126,7 +126,6 @@ Aspiring Computer Science student passionate about building practical, scalable 
   <summary><b>Tools & Technologies</b></summary>
   <br>
   <p align="center">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
     <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
   </p>
 </details>
